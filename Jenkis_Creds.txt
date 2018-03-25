@@ -1,0 +1,9 @@
+Administrator Password :
+962201d8b06f44db97e3d74d2ed97fd3
+
+You can get the initial password from this path
+C:\Users\shreyasaithala\.jenkins\secrets
+
+If the port is aleady being used or an I/O exception occurs
+java -jar jenkins.war --httpPort=9090
+
